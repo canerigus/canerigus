@@ -1,12 +1,13 @@
 ### Hi there, I'm Caner 👋
 
-- 🌱 I’m currently working with **ReactJS and anything related with JavaScript**
+🌱 I’m currently working with **ReactJS and anything related with JavaScript**
 
 #### My Last Projects are a Movie App with ExpressJS/Typescript/MySQL/Typeorm and a Metamask Sign&Verify App with React JS
 [Movie App](https://cinephileapps.herokuapp.com/) - [Metamask App](https://metamask-sign-app.vercel.app/)
 
-- 🔭 I’m currently working on some ReactJS project. 
-- 📫 Reach me on: canerigus@gmail.com
+🔭 I’m currently working on some ReactJS project.
+
+📫 Reach me on: canerigus@gmail.com
 
 <h3 align="left">Technologies</h3>
 <p align="left"> 
