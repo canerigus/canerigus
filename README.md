@@ -1,6 +1,6 @@
 ### Hi there, I'm Caner 👋
 
-🌱 I’m currently working with **VueJS, ExpressJS MongoDB & Mongoose and anything related with JavaScript**
+🌱 I’m currently working with **MEVN stack and anything related with JavaScript**
 
 #### My Last Projects are;
  - Beer App with Dynamic Filter & Search with VueJS & PunkAPI, 
@@ -8,8 +8,6 @@
  - Metamask Sign&Verify App with React JS & Web3JS
 
 [Movie App](https://cinephileapps.herokuapp.com/) - [Metamask App](https://metamask-sign-app.vercel.app/)
-
-🔭 I’m currently working on MEVN Stack projects.
 
 📫 Reach me on: canerigus@gmail.com
 
