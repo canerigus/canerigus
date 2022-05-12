@@ -1,11 +1,15 @@
 ### Hi there, I'm Caner 👋
 
-🌱 I’m currently working with **ReactJS and anything related with JavaScript**
+🌱 I’m currently working with **VueJS, ExpressJS MongoDB & Mongoose and anything related with JavaScript**
 
-#### My Last Projects are a Movie App with ExpressJS/Typescript/MySQL/Typeorm and a Metamask Sign&Verify App with React JS
+#### My Last Projects are;
+ - Beer App with Dynamic Filter & Search with VueJS & PunkAPI, 
+ - Movie App with ExpressJS/Typescript/MySQL/Typeorm and 
+ - Metamask Sign&Verify App with React JS & Web3JS
+
 [Movie App](https://cinephileapps.herokuapp.com/) - [Metamask App](https://metamask-sign-app.vercel.app/)
 
-🔭 I’m currently working on some ReactJS project.
+🔭 I’m currently working on MEVN Stack projects.
 
 📫 Reach me on: canerigus@gmail.com
 
@@ -13,6 +17,7 @@
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="30" height="30"/> </a> 
+<a href="https://vuejs.org/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="react" width="33" height="30"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
  <a href="https://nodejs.org/en/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="33" height="30"/> </a> 
 <a href="http://expressjs.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="33" height="30"/> </a> 
