@@ -7,7 +7,7 @@
  - Movie App with ExpressJS/Typescript/MySQL/Typeorm and 
  - Metamask Sign&Verify App with React JS & Web3JS
 
-[Movie App](https://cinephileapps.herokuapp.com/) - [Metamask App](https://metamask-sign-app.vercel.app/)
+[Movie App](https://cinephileapps.herokuapp.com/) - [Metamask App](https://metamask-sign-app.vercel.app/) - [Beer App](https://github.com/canerigus/vuePunkAPI)
 
 📫 Reach me on: canerigus@gmail.com
 
