@@ -31,7 +31,7 @@
 <a href="https://slack.com/intl/en-tr/" target="_blank" rel=”noopener”> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="33" height="33"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel=”noopener”> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="jira" width="30" height="30"/> </a> 
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel=”noopener”> <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="confluence" width="33" height="30"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel=”noopener”> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="33" height="30"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="33" height="30"/> </a>
 <a href="https://aws.amazon.com/cognito/" target="_blank" rel=”noopener”> <img src="https://cdn.worldvectorlogo.com/logos/aws-cognito.svg" alt="cognito" width="33" height="30"/> </a>
 <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel=”noopener”> <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="dynamoDB" width="33" height="30"/> </a>
 <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
