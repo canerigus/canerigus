@@ -2,13 +2,6 @@
 
 🌱 I’m currently working with **MEVN stack and anything related with JavaScript**
 
-#### My Last Projects are;
- - Beer App with Dynamic Filter & Search with VueJS & PunkAPI, 
- - Movie App with ExpressJS/Typescript/MySQL/Typeorm and 
- - Metamask Sign&Verify App with React JS & Web3JS
-
-[Movie App](https://cinephileapps.herokuapp.com/) - [Metamask App](https://metamask-sign-app.vercel.app/) - [Beer App](https://vue-punk-api.vercel.app/)
-
 <h3 align="left">Technologies</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
